@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-atoro",
+  "version": "0.1.0",
+  "description": "Contains various shared ESLint configurations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atorov/eslint-config-atoro"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "style guide",
+    "es6",
+    "es2015",
+    "react",
+    "jsx",
+    "lint"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-react": ">= 6"
+  },
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
